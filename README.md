@@ -23,6 +23,8 @@ User group netops and devops is created
 ![image](https://github.com/user-attachments/assets/12040578-2c16-4a3c-ad54-3ce2cd721a91)
 ## Creating Roles
 Click create roles
-![image](https://github.com/user-attachments/assets/c6765baa-af04-4eb7-a6c7-d195c9175ce0)
+![image](https://github.com/user-attachments/assets/734ae337-9f0c-4bd1-8aea-57f6461224c2)
 Add Permissions 
 ![image](https://github.com/user-attachments/assets/a2ec8324-516e-440e-ba18-1bb041adecd4)
+Role Created
+![image](https://github.com/user-attachments/assets/63d6eb6b-45eb-4f0c-83e0-0d370ac6f912)
